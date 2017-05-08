@@ -29,8 +29,6 @@ A platform for new developers to find guides and communities to learn developmen
 
     once done go to your github page to make the pull request which you will be prompt with in your version of the repository.
 
-
-I am fixing a problem
     
 
     
