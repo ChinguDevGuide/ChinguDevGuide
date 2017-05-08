@@ -2,12 +2,19 @@
 A platform for new developers to find guides and communities to learn development.
 
 # How to set up
+    This Project is using NodeJs and Npm 
+    make sure you have node and npm install on your machine
 
     Fork this repository.
 
     afterwards clone your version of the repository to your local machine.
 
     git clone <your version of the repository>
+
+    npm install  =>>> shall install all the node packages necessary.
+
+    npm start -----> runs the project on your local host.
+
 
     then add the upstream remote
     git remote add upstream https://github.com/ChinguDevGuide/ChinguDevGuide.git
@@ -29,6 +36,4 @@ A platform for new developers to find guides and communities to learn developmen
 
     once done go to your github page to make the pull request which you will be prompt with in your version of the repository.
 
-    
 
-    
