@@ -31,10 +31,9 @@ A platform for new developers to find guides and communities to learn developmen
 
     then also git push --set-upstream dev   --> this will make the new dev branch remote 
 
+
     Add or fix features once done git add and commit then push it to your remote repository
 
     once done go to your github page to make the pull request which you will be prompt with in your version of the repository.
 
-    
-    
-    
+
